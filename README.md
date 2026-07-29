@@ -8,6 +8,7 @@ This repository contains my solutions for Data Structures and Algorithms in C++.
 
 ### Arrays
 - Linear Search
+- Reverse Array( Two-Pointer approach)
 
 ## Goals
 - Improve problem-solving skills
