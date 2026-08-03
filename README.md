@@ -7,10 +7,11 @@ This repository contains my solutions for Data Structures and Algorithms in C++.
 ## Topics Covered
 
 ### Arrays
-- Linear Search
+- Linear Search --> O(n)
 - Reverse Array( Two-Pointer approach)
 - Single Number (Using XOR)
 - Second Largest Element 
+- Binary Search --> O(log n)
 
 ## Goals
 - Improve problem-solving skills
