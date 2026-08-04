@@ -14,6 +14,7 @@ This repository contains my solutions for Data Structures and Algorithms in C++.
 - Binary Search --> O(log n)
 - Remove Duplicates from sorted Array (Two pointer approach)
 - Move Zeroes at the end --> O(n)
+- Missing number Problem --> O(n)
 
 ## Goals
 - Improve problem-solving skills
