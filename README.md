@@ -13,6 +13,7 @@ This repository contains my solutions for Data Structures and Algorithms in C++.
 - Second Largest Element 
 - Binary Search --> O(log n)
 - Remove Duplicates from sorted Array (Two pointer approach)
+- Move Zeroes at the end --> O(n)
 
 ## Goals
 - Improve problem-solving skills
