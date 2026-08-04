@@ -15,6 +15,7 @@ This repository contains my solutions for Data Structures and Algorithms in C++.
 - Remove Duplicates from sorted Array (Two pointer approach)
 - Move Zeroes at the end --> O(n)
 - Missing number Problem --> O(n)
+- Contains Duplicate ( Unordered set)
 
 ## Goals
 - Improve problem-solving skills
