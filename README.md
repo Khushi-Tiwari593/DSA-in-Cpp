@@ -16,6 +16,7 @@ This repository contains my solutions for Data Structures and Algorithms in C++.
 - Move Zeroes at the end --> O(n)
 - Missing number Problem --> O(n)
 - Contains Duplicate ( Unordered set)
+- Best Time to Buy & Sell stock --> O(n)
 
 ## Goals
 - Improve problem-solving skills
