@@ -18,6 +18,7 @@ This repository contains my solutions for Data Structures and Algorithms in C++.
 - Contains Duplicate ( Unordered set)
 - Best Time to Buy & Sell stock --> O(n)
 - Majority element problem (LC 169)
+- Search in Rotated Sorted Array(LC 33)
 
 ## Goals
 - Improve problem-solving skills
