@@ -19,6 +19,7 @@ This repository contains my solutions for Data Structures and Algorithms in C++.
 - Best Time to Buy & Sell stock --> O(n)
 - Majority element problem (LC 169)
 - Search in Rotated Sorted Array(LC 33)
+- Peak Index in mountain Array (LC 852)
 
 ## Goals
 - Improve problem-solving skills
