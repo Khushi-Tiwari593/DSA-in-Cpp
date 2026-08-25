@@ -21,6 +21,7 @@ This repository contains my solutions for Data Structures and Algorithms in C++.
 - Search in Rotated Sorted Array(LC 33)
 - Peak Index in mountain Array (LC 852)
 - Search Insert Position ( LC 35)
+- Aggresive Cows Problem
 
 ## Goals
 - Improve problem-solving skills
