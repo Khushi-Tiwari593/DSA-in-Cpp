@@ -22,6 +22,7 @@ This repository contains my solutions for Data Structures and Algorithms in C++.
 - Peak Index in mountain Array (LC 852)
 - Search Insert Position ( LC 35)
 - Aggresive Cows Problem
+- Maximum Subarray Sum
 
 ## Goals
 - Improve problem-solving skills
