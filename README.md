@@ -23,6 +23,7 @@ This repository contains my solutions for Data Structures and Algorithms in C++.
 - Search Insert Position ( LC 35)
 - Aggresive Cows Problem
 - Maximum Subarray Sum
+- Sorting Algorithms (Bubble, Selection & Insertion Sort)
 
 ## Goals
 - Improve problem-solving skills
