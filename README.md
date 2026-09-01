@@ -24,6 +24,7 @@ This repository contains my solutions for Data Structures and Algorithms in C++.
 - Aggresive Cows Problem
 - Maximum Subarray Sum
 - Sorting Algorithms (Bubble, Selection & Insertion Sort)
+- Sort Colors (Dutch National Flag Algorithm)
 
 ## Goals
 - Improve problem-solving skills
