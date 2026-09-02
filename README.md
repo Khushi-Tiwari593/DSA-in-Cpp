@@ -25,7 +25,7 @@ This repository contains my solutions for Data Structures and Algorithms in C++.
 - Maximum Subarray Sum
 - Sorting Algorithms (Bubble, Selection & Insertion Sort)
 - Sort Colors (Dutch National Flag Algorithm)
-
+- Merge Two sorted arrays (LC 88)
 ## Goals
 - Improve problem-solving skills
 - Learn DSA from basic to advanced
