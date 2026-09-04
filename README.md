@@ -30,6 +30,7 @@ This repository contains my solutions for Data Structures and Algorithms in C++.
 - Improve problem-solving skills
 - Learn DSA from basic to advanced
 - Solve coding problems consistently
+- First & Last Position of Element (LC 34)
 
 ## Author
 Khushi
