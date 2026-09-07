@@ -23,14 +23,19 @@ This repository contains my solutions for Data Structures and Algorithms in C++.
 - Search Insert Position ( LC 35)
 - Aggresive Cows Problem
 - Maximum Subarray Sum
+- First & Last Position of Element (LC 34)
 - Sorting Algorithms (Bubble, Selection & Insertion Sort)
 - Sort Colors (Dutch National Flag Algorithm)
 - Merge Two sorted arrays (LC 88)
+
+### Strings
+- Valid Palindrome Check
+
 ## Goals
 - Improve problem-solving skills
 - Learn DSA from basic to advanced
 - Solve coding problems consistently
-- First & Last Position of Element (LC 34)
+
 
 ## Author
 Khushi
