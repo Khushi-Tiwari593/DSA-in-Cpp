@@ -30,6 +30,7 @@ This repository contains my solutions for Data Structures and Algorithms in C++.
 
 ### Strings
 - Valid Palindrome Check
+- Reverse Words in Strings (LC 151)
 
 ## Goals
 - Improve problem-solving skills
