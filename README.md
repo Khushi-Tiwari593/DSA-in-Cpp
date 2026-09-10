@@ -31,6 +31,7 @@ This repository contains my solutions for Data Structures and Algorithms in C++.
 ### Strings
 - Valid Palindrome Check
 - Reverse Words in Strings (LC 151)
+- Valid Anagram (LC 242)
 
 ## Goals
 - Improve problem-solving skills
