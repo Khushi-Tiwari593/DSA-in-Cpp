@@ -32,6 +32,7 @@ This repository contains my solutions for Data Structures and Algorithms in C++.
 - Valid Palindrome Check
 - Reverse Words in Strings (LC 151)
 - Valid Anagram (LC 242)
+- Longest Common Prefix (LC 14)
 
 ## Goals
 - Improve problem-solving skills
