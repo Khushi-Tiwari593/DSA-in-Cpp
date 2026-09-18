@@ -27,6 +27,7 @@ This repository contains my solutions for Data Structures and Algorithms in C++.
 - Sorting Algorithms (Bubble, Selection & Insertion Sort)
 - Sort Colors (Dutch National Flag Algorithm)
 - Merge Two sorted arrays (LC 88)
+- Find Missing & Repeated values (LC 2965)
 
 ### Strings
 - Valid Palindrome Check
